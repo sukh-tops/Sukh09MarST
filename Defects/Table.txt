@@ -1,0 +1,20 @@
+1. Moveable Table : Wheels are not proper.
+2. Glass Table : Glass is Breakable.
+3. Glass Table : Can't handle much weight.
+4. Wooden Table : Edges are sharp and pointable.
+5. Wooden Table : Wood material is not good.
+6. Wooden Table : In monsoon,the wood gets thicker because the problem occurs due to moisture in air. 
+7. Wooden Table : Wooden sheet is not properly balanced.
+8. Ply material is not properly set.
+9. Table is imbalanced by one side due to the legs are not properly set.
+10. Color Quality on table is not good.
+11. Hanging Table : Rope is Risky in  this type of table.
+12. Computer Table : The space of table is small, Can't put legs under the table properly.
+13. Foldable wooden table with wall : Can't remove it as attached with wall.
+14. Foldable Table : Screw risk is always there.
+15. Metal Table : It creates problem of rust due to having moisture in air.
+16. Metal Table : It creates noice while moving from one place to another if not having wheels.
+17. Metal Table : If oiling is not proper in the drawers it can't  fit properly.
+18. Metal Table : If the support rod between 2 legs of table is not proper then the table will soon be imbalanced with legs.
+19. Wooden Table : In Long Highted table, The legs should be thick rather then normal table.
+20. Wooden Table : TERMITES takes place in wooden table.

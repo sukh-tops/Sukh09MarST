@@ -1,0 +1,24 @@
+Metal Door : Contains Rust Issues.
+Wooden Door : Gets thick in rain.
+Sliding Door : Contains dirt in the trail.
+Handle is not fitted proper.
+Roller handle is not proper.
+In roller knob the lock is not working.
+In glass door the glass is not of good quality.
+In this the down stopper is not proper, Rubber is not of good quality.
+Plastic Door : The plastic is not of good quality. Thin in weight.
+Makes noice when opens and closes the door.
+In Metal Door the color is not proper.
+In glass door the handle is heavy and the glass material is in light weight, can be broken if something heavy touches.
+Environment efforts according to door.
+Screw is not properly fitted.
+Loose Handles.
+Rust on stopper.
+Lower support starts to noice.
+In slidding door due to the trail inside material is not good, it cannot move the door freely.
+Door stopper is not fitted properly.
+Gets extra smooth when it gets oiling and shuts quickly.
+Contains rust on stopper.
+Automator closure is not proper.
+In sensors door, sensor are not proper.
+In rotating doors, the rotatness is not smooth.
